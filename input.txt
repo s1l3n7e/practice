@@ -1,0 +1,1 @@
+type MyType=aRraY[1..20] of String;

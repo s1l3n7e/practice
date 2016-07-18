@@ -1,0 +1,1 @@
+START g++ main.cpp lexical.cpp transliteration.cpp syntax.cpp identification.cpp -o main -std=c++11
